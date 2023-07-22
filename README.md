@@ -1,3 +1,6 @@
+
+# Predicting House Prices in King County, USA
+
 This project was completed as a part of the Honors portion of the [Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) Course on [Coursera](https://www.coursera.org/).
 
 Credit to IBM and the Coursera platform for providing the course materials and guidance.
